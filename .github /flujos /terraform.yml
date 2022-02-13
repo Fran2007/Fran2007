@@ -1,0 +1,55 @@
+def 
+def colocarfichamaquina(ficha,fichacontrincante):
+  random.shuffle(casillavacia)
+  for casilla in casillavacia:
+      if(hemosGanado(casilla,ficha)):
+        Tablero[casilla]=ficha
+        return casilla 
+  for casilla in casillavacia:
+      if(hemosGanado(casilla,fichacontrincante)):
+        Tablero[casilla]=ficha
+        return casilla
+  for casilla in casillavacia:
+       Tablero[casilla]=ficha
+       return casilla  
+
+
+def pintartablero():
+  pos=0
+  print(("-"*18))
+  for fila in range(3):
+      for columna in range(3):
+         print("| ",Tablero[pos]," ", end=" ")
+         pos+=1
+      print("|\n",("-"*18)) 
+      
+def numerohermanos(casilla, h, v):
+    f=math.floor (casilla/TABLER_columnas) #Obtengo la fila
+    c=casilla % TABLER_columnas 
+    fila_nueva=f+v
+    if(fila_nueva<0 or fila_nueva>Tablero_fila):
+       return 0
+    columna_nueva=c+h
+    if(columna_nueva<0 or columna_nueva>=TABLER_columnas):
+      return 0
+    
+    
+    pos=(fila_nueva*TABLER_columnas+columna_nueva)
+    if(Tablero[pos]!=ficha):#sdi
+       return 0
+    else:
+       return 1+numerohermanos(pos,ficha,v,h)
+       
+def hemosGanado(casilla, ficha):
+ hermanos=numerohermanos(casilla,ficha,-1,-1)+numerohermanos(casilla,ficha,1,1)
+ if(hermanos==2): 
+    return True
+ hermanos=numerohermanos(casilla,ficha,1,-1)+numerohermanos(casilla,ficha,-1,1)
+ if(hermanos==2):
+    return True
+ hermanos=numerohermanos(casilla,ficha,-1,0)+numerohermanos(casilla,ficha,1,0)
+ if(hermanos==2):
+    return True
+ hermanos=numerohermanos(casilla,ficha,0,-1)+numerohermanos(casilla,ficha,0,1)
+ if(hermanos==2):
+    return True
