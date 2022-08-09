@@ -14,3 +14,15 @@ const contenedor2 = document.querySelector('.Contenedor-2');
 //contenedor2.addEventListener('mouseleave',(e)=>{
       // alert('Di click en el contenedor azul')
 //})
+
+inputPrueba.addEventListener('keypress', (e)=>{
+       alert('Di click en el contenedor ')
+ });
+
+ inputPrueba.addEventListener('keypress', (e)=>{
+       alert('Di click en el contenedor ')
+ });
+
+ inputPrueba.addEventListener('keypress', (e)=>{
+       alert('Di click en el contenedor ')
+ });
