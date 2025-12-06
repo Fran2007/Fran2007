@@ -6,7 +6,7 @@ I’m a frontend software engineer based in Mexico, focused on building performa
 I enjoy turning ideas into real products — from initial concept and design to production-ready interfaces. I care deeply about clean code, maintainable systems, and user experience.
 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-Frontend
+|Frontend
 |<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" alt="Framer Motion" /> </p>
 
 
