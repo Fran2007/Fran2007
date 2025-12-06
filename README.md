@@ -7,7 +7,7 @@ I enjoy turning ideas into real products — from initial concept and design to 
 
 
 |Frontend
-|<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" alt="Framer Motion" /> </p>
+|<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /> <a target="_blank" href="https://icons8.com/icon/XKFRdQOs24QU/framer-logo">Framer Logo</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> </p>
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 
 |Tools & Workflow
