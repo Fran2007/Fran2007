@@ -7,7 +7,7 @@ I enjoy turning ideas into real products — from initial concept and design to 
 
 
 |Frontend
-|<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Framer-20232A?style=for-the-badge&logo=framer" width="40" alt="Framer Motion"/> </p>
+|<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Framer-20232A?style=for-the-badge&logo=framer" width="50" alt="Framer Motion"/> </p>
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 
 |Tools & Workflow
