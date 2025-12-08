@@ -38,15 +38,25 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="34" />
     </td>
   </tr>
+
+  ### Tools
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/linux/ffffff" width="34" />
+      <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="34" />
+      <img src="https://cdn.simpleicons.org/obsidian/ffffff" width="34" />
+   </td>
+  </tr>
+  
 </table>
 
 ---
 
 
 ## 🌟 Let's connect
- I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out tome. 
+ I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out to me. 
+<img src="https://cdn.simpleicons.org/maildotru/ffffff" width="18" />
 
- <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" /> &nbsp; [franklinevillanueva4@gmail.com](mailto:frank@email.com)
 ---
 
 
