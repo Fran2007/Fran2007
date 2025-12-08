@@ -10,13 +10,25 @@ Frontend software engineer focused on building clean, fast and expressive interf
 I design systems that scale, ship production-ready UI, and care deeply about clarity,
 maintainability and motion with intent.
 
+
 ## Technologies
+
+```bash
 
 | UI / Frontend |
 |---------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" /> <img src="https://cdn.simpleicons.org/framer/ffffff" width="34" /> |
+| <table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" />
+      <img src="https://cdn.simpleicons.org/framer/ffffff" width="36" />
+    </td>
+  </tr>
+</table> |
 
-Tools con estilo terminal (Arch user detected)
+```
 
 ## Environment
 
