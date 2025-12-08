@@ -41,8 +41,9 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 </table>
 
 
+### Tools
+
 <table>
-    ### Tools
   <tr>
     <td>
      <img src="https://cdn.simpleicons.org/obsidian/ffffff" width="34" />
