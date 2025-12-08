@@ -42,10 +42,12 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 
 ---
 
+
 ## 🌟 Let's connect
  I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out tome. 
 
- <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" /> &nbsp; [franklinev.com](mailto:frank@email.com)
+ <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" /> &nbsp; [franklinevillanueva4@gmail.com](mailto:frank@email.com)
+---
 
 
 🧠 Beyond Code
