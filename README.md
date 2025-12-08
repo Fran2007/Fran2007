@@ -58,6 +58,7 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 
 ## 🌟 Let's connect
  I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out to me. 
+ 
 <img src="https://cdn.simpleicons.org/maildotru/ffffff" width="18" />
 
 ---
