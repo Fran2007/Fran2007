@@ -1,5 +1,5 @@
-<img src="./header.svg" />
 <svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<img src="./header.svg" />
   <defs>
     <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="12"/>
