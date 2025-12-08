@@ -49,7 +49,6 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
      <img src="https://cdn.simpleicons.org/obsidian/ffffff" width="34" />
       <img src="https://cdn.simpleicons.org/linux/ffffff" width="34" />
       <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="34" />
-      <img src="https://cdn.simpleicons.org/obsidian/ffffff" width="34" />
    </td>
   </tr>
 </table>
