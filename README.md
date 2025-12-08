@@ -1,7 +1,8 @@
 Hi, I’m Frank 👋
 
-Frontend Software Engineer | React • TypeScript • UI Engineering
+🌎 Education based in EEUU | 💡Passionate to create solutions.
 
+Frontend Software Engineer | React • TypeScript • UI Engineering 
 
 I’m a frontend software engineer based in Mexico, focused on building performant, accessible, and visually polished web applications.
 I enjoy turning ideas into real products — from initial concept and design to production-ready interfaces. I care deeply about clean code, maintainable systems, and user experience.
@@ -41,11 +42,10 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 
 ---
 
-##🌟 Let's connect
+## 🌟 Let's connect
  I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out tome. 
 
- <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" />
-&nbsp; [franklinevillanueva4@gmail.com](mailto:frank@email.com)
+ <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" /> &nbsp; [franklinev.com](mailto:frank@email.com)
 
 
 🧠 Beyond Code
@@ -53,10 +53,4 @@ I’m passionate about physics and astronomy, interests that influence the way I
 
 ---
 
-## Environment
 
-```bash
-os      :: linux
-editor  :: neovim / vscode
-deploy  :: vercel
-tools   :: git · github · obsidian
