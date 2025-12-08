@@ -12,10 +12,14 @@ Simple systems scale.
 🧰 stack.ui
 ╭─ frontend · ui · motion ─────────────────────╮
 │ react          typescript                    │
-│ tailwindcss    framer-motion                 │
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" />
+│ tailwindcss    framer-motion            
+
+
+│
 ╰──────────────────────────────────────────────╯
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" /> <img src="https://cdn.simpleicons.org/framer/ffffff" width="34" /> </p>
+<p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" /> <img src="https://cdn.simpleicons.org/framer/ffffff" width="34" /> </p>
 🛠 env.system
 ╭─ tooling ────────────────────────────────────╮
 │ linux        git        github               │
