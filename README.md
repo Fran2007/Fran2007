@@ -1,36 +1,46 @@
+oFrank ⚡
+
 Frontend Software Engineer · UI Engineering · React / TypeScript
 
-Frontend software engineer based in Mexico, specializing in performant, accessible, and visually refined web interfaces. I focus on transforming ideas into production-ready experiences, blending clean architecture, design systems, and purposeful motion.
+Frontend software engineer based in Mexico. I build fast, minimal, and expressive interfaces, where motion, structure, and intent matter.
 
-I value clarity, maintainability, and scalable systems — in both code and UI.
+I specialize in transforming raw ideas into production-ready systems, combining clean architecture, design systems, and deliberate animation.
+Precision over noise. Signal over style-flexing.
 
 🧰 Tech Stack — UI Engineering
 
-[ frontend · ui · motion ]
+[ frontend // ui // motion ]
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" alt="Tailwind CSS" /> <img src="https://cdn.simpleicons.org/framer/000000" width="38" alt="Framer Motion" /> </p>
-🛠️ Tools & Workflow
-$ daily-stack --ui --systems
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" /> <img src="https://cdn.simpleicons.org/framer/ffffff" width="36" /> </p>
+🛠️ Tools & Environment
+$ whoami
+frontend-ui-engineer
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" alt="GitHub" /> <img src="https://cdn.simpleicons.org/vercel/000000" width="38" alt="Vercel" /> <img src="https://cdn.simpleicons.org/excalidraw/000000" width="38" alt="Excalidraw" /> <img src="https://cdn.simpleicons.org/obsidian/483699" width="38" alt="Obsidian" /> </p>
-📌 Projects
+$ uname -a
+linux / git / github / vercel
 
-I maintain a curated set of pinned projects on my profile, with you @project as a personal highlight.
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" /> <img src="https://cdn.simpleicons.org/vercel/ffffff" width="36" /> <img src="https://cdn.simpleicons.org/excalidraw/ffffff" width="36" /> <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="36" /> </p>
+📂 Projects
 
-Currently hosting 38 public repositories, plus 200+ private projects developed through continuous experimentation, learning, and iterative refinement.
+Pinned projects are curated, not random.
+you @project is a personal favorite.
 
-⚙️ Engineering Philosophy
-build fast
-keep systems simple
-ship clean interfaces
-automate the boring parts
+38 public repositories
+200+ private experiments
+Built through iteration, breaking things, rebuilding them cleaner.
+
+⚙️ Engineering Doctrine
+design with intent
+move fast, refactor faster
+keep systems readable
+interfaces should feel alive
 
 🧠 Beyond Code
 
-I have a strong interest in physics and astronomy, which influences how I approach abstraction, systems thinking, and long-term problem solving.
+Interested in physics, astronomy, and abstraction — not as hobbies, but as ways to understand systems, scale, and time.
 
-📫 Contact
+📡 Signal
 
 GitHub: @Frank2007
 
-Portfolio: coming soon
+Portfolio: loading…
