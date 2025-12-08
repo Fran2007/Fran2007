@@ -1,51 +1,60 @@
-Versión final — Arch Linux minimal
-oFrank
-frontend-ui-engineer
+<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
 
+  <rect width="100%" height="100%" fill="url(#bg)"/>
 
-Frontend Software Engineer based in Mexico.
-I build performant, minimal, and expressive interfaces focused on clarity, structure, and motion.
+  <!-- Glass panel -->
+  <rect x="40" y="30" rx="14" ry="14" width="820" height="120"
+        fill="rgba(255,255,255,0.06)"
+        filter="url(#blur)"
+        stroke="rgba(255,255,255,0.12)" />
 
-Signal > noise.
-Simple systems scale.
+  <!-- Text -->
+  <text x="70" y="80" fill="#e5e7eb" font-size="28"
+        font-family="monospace" font-weight="600">
+    oFrank
+  </text>
 
-🧰 stack.ui
-╭─ frontend · ui · motion ─────────────────────╮
-│ react          typescript                    │
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" />
-│ tailwindcss    framer-motion            
+  <text x="70" y="115" fill="#9ca3af" font-size="16"
+        font-family="monospace">
+    frontend-ui-engineer · react · typescript · linux
+  </text>
+</svg>
+<img src="./header.svg" />
 
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
 
-│
-╰──────────────────────────────────────────────╯
+  <rect x="30" y="20" rx="12" ry="12" width="840" height="180"
+        fill="rgba(255,255,255,0.05)"
+        filter="url(#blur)"
+        stroke="rgba(255,255,255,0.12)" />
 
-<p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" /> <img src="https://cdn.simpleicons.org/framer/ffffff" width="34" /> </p>
-🛠 env.system
-╭─ tooling ────────────────────────────────────╮
-│ linux        git        github               │
-│ vercel       excalidraw obsidian              │
-╰──────────────────────────────────────────────╯
+  <text x="60" y="60" fill="#e5e7eb" font-size="16"
+        font-family="monospace">
+    stack.ui
+  </text>
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" /> <img src="https://cdn.simpleicons.org/vercel/ffffff" width="34" /> <img src="https://cdn.simpleicons.org/excalidraw/ffffff" width="34" /> <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="34" /> </p>
-📂 work.log
-38 public repositories
-200+ private iterations
-focused on refinement, not volume
+  <text x="60" y="95" fill="#9ca3af" font-size="14"
+        font-family="monospace">
+    react · typescript · tailwindcss · framer-motion
+  </text>
 
-
-Pinned projects are deliberate.
-you @project is a personal reference.
-
-⚙️ doctrine
-simplicity is power
-motion with intent
-clean systems > clever tricks
-automate the boring paths
-
-🧠 extra.context
-
-Interested in physics and astronomy — tools for thinking about scale, time, and systems.
-
-📡 contact
-github    @Frank2007
-portfolio loading...
+  <text x="60" y="130" fill="#9ca3af" font-size="14"
+        font-family="monospace">
+    linux · git · github · vercel · obsidian
+  </text>
+</svg>
+<img src="./stack.svg" />
