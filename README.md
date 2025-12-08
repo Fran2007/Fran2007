@@ -12,7 +12,7 @@ I enjoy turning ideas into real products — from initial concept and design to 
 
 📌 Projects
 
-I maintain a curated set of pinned projects on my profile, with you @project being a personal highlight.
+I maintain a curated set of pinned projects on my profile, with @test being a personal highlight.
 Currently, I have 38 public repositories, alongside 200+ private projects built through continuous learning, experimentation, and iteration.
 
 ---
@@ -30,12 +30,12 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" />
       <img src="https://cdn.simpleicons.org/framer/ffffff" width="34" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" />
-<img src="https://cdn.simpleicons.org/express/ffffff" width="34" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="34" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" />
+      <img src="https://cdn.simpleicons.org/express/ffffff" width="34" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="34" />
     </td>
   </tr>
 </table>
