@@ -1,20 +1,21 @@
-# oFrank
+Hi, I’m Frank 👋
 
-**Frontend Software Engineer · UI Engineering**
+Frontend Software Engineer | React • TypeScript • UI Engineering
 
-_mexico · linux · ui systems_
 
----
-
-Frontend software engineer focused on building clean, fast, and expressive interfaces.
-
-I design scalable systems, ship production-ready UI, and care deeply about clarity,  
-maintainability, and motion with intent. I enjoy turning complex problems into  
-simple, elegant user experiences.
+I’m a frontend software engineer based in Mexico, focused on building performant, accessible, and visually polished web applications.
+I enjoy turning ideas into real products — from initial concept and design to production-ready interfaces. I care deeply about clean code, maintainable systems, and user experience.
 
 ---
 
-## Technologies & Tools
+
+📌 Projects
+
+I maintain a curated set of pinned projects on my profile, with you @project being a personal highlight.
+Currently, I have 38 public repositories, alongside 200+ private projects built through continuous learning, experimentation, and iteration.
+---
+
+## 🛠️ Technologies & Tools
 
 ### UI / Frontend
 
@@ -37,6 +38,17 @@ simple, elegant user experiences.
   </tr>
 </table>
 
+---
+
+##🌟 Lets connect
+ I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out tome. 
+
+ <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" />
+&nbsp; [franklinevillanueva4@gmail.com](mailto:frank@email.com)
+
+
+🧠 Beyond Code
+I’m passionate about physics and astronomy, interests that influence the way I think about systems, abstraction, and long-term problem solving.
 ---
 
 ## Environment
