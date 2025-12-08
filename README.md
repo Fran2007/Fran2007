@@ -13,6 +13,7 @@ I enjoy turning ideas into real products — from initial concept and design to 
 
 I maintain a curated set of pinned projects on my profile, with you @project being a personal highlight.
 Currently, I have 38 public repositories, alongside 200+ private projects built through continuous learning, experimentation, and iteration.
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -40,7 +41,7 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 
 ---
 
-##🌟 Lets connect
+##🌟 Let's connect
  I'm always open to collaborating on interesting project or discossing new ideas. Feel free to reach out tome. 
 
  <img src="https://cdn.simpleicons.org/gmail/ffffff" width="18" />
@@ -49,6 +50,7 @@ Currently, I have 38 public repositories, alongside 200+ private projects built 
 
 🧠 Beyond Code
 I’m passionate about physics and astronomy, interests that influence the way I think about systems, abstraction, and long-term problem solving.
+
 ---
 
 ## Environment
