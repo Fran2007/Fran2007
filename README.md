@@ -13,7 +13,6 @@ maintainability and motion with intent.
 
 ## Technologies
 
-```bash
 
 | UI / Frontend |
 |---------------|
@@ -28,7 +27,6 @@ maintainability and motion with intent.
   </tr>
 </table> |
 
-```
 
 ## Environment
 
