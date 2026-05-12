@@ -1,12 +1,15 @@
 Hi, I’m Frank 👋
 
-🌎  | 💡Passionate to create solutions.
+🌎 Self-taught Developer | 💡 Passionate about building solutions.
 
-Frontend developer | React • TypeScript • UI Engineering 
+Frontend Developer | React • TypeScript • UI Engineering
 
-I’m a frontend software engineer based in online learning, focused on building performant, accessible, and visually polished web applications.
-I enjoy turning ideas into real products — from initial concept and design to production-ready interfaces. I care deeply about clean code, maintainable systems, and user experience.
+I’m a frontend developer focused on building performant,
+accessible, and visually polished web applications.
 
+I enjoy turning ideas into real products — from concept
+and design to production-ready interfaces. I care deeply
+about clean code, maintainable systems, and user experience.
 ---
 
 
