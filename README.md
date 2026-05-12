@@ -5,11 +5,23 @@ Hi, I’m Frank 👋
 
 React • TypeScript • Tailwind CSS • Frontend Architecture
 
-I build responsive, accessible, and visually polished
-web applications focused on performance and user experience.
+I’m a frontend developer focused on creating performant,
+accessible, and visually polished web applications with a
+strong emphasis on user experience and clean interface design.
 
-I enjoy transforming ideas into real products through
-clean code, maintainable systems, and thoughtful design.
+I enjoy transforming ideas into real products — from the
+initial concept and planning stage to fully functional,
+production-ready interfaces. I care deeply about writing
+clean, maintainable code and building systems that are both
+scalable and easy to work with.
+
+My main interests include frontend architecture, responsive
+design, performance optimization, and crafting intuitive
+digital experiences that feel smooth and professional.
+
+I’m constantly learning, experimenting with new technologies,
+and improving my development workflow through personal
+projects, open-source contributions, and continuous practice.
 
 ---
 
