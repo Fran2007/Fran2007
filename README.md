@@ -1,10 +1,10 @@
 Hi, I’m Frank 👋
 
-🌎 Education based in EEUU | 💡Passionate to create solutions.
+🌎  | 💡Passionate to create solutions.
 
-Frontend Software Engineer | React • TypeScript • UI Engineering 
+Frontend developer | React • TypeScript • UI Engineering 
 
-I’m a frontend software engineer based in Mexico, focused on building performant, accessible, and visually polished web applications.
+I’m a frontend software engineer based in online learning, focused on building performant, accessible, and visually polished web applications.
 I enjoy turning ideas into real products — from initial concept and design to production-ready interfaces. I care deeply about clean code, maintainable systems, and user experience.
 
 ---
