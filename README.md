@@ -10,6 +10,7 @@ web applications focused on performance and user experience.
 
 I enjoy transforming ideas into real products through
 clean code, maintainable systems, and thoughtful design.
+
 ---
 
 
