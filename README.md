@@ -1,15 +1,15 @@
 Hi, I’m Frank 👋
 
-🌎 Self-taught Developer | 💡 Passionate about building solutions.
+🌎 Self-taught Frontend Developer
+💡 Passionate about UI engineering and modern web experiences.
 
-Frontend Developer | React • TypeScript • UI Engineering
+React • TypeScript • Tailwind CSS • Frontend Architecture
 
-I’m a frontend developer focused on building performant,
-accessible, and visually polished web applications.
+I build responsive, accessible, and visually polished
+web applications focused on performance and user experience.
 
-I enjoy turning ideas into real products — from concept
-and design to production-ready interfaces. I care deeply
-about clean code, maintainable systems, and user experience.
+I enjoy transforming ideas into real products through
+clean code, maintainable systems, and thoughtful design.
 ---
 
 
